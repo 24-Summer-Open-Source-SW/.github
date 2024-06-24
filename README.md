@@ -1,4 +1,4 @@
-# 🌞 HUFSummer Hackathon
+# 🌞 HUFS Summer - OPEN SOURCE SW
 
 > **주제** : 미정
 
