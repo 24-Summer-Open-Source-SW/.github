@@ -1,4 +1,5 @@
 # 🌞 HUFS Summer - OPEN SOURCE SW
+### team2
 
 > **주제** : 미정
 
