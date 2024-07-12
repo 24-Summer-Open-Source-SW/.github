@@ -1,4 +1,4 @@
-e# 🌞 HUFS Summer - OPEN SOURCE SW
+# 🌞 HUFS Summer - OPEN SOURCE SW
 ### team2
 
 > **주제** : 개발 이슈 메모 (DEVO)
