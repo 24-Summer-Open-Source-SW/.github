@@ -11,6 +11,9 @@
 - **김예지** : 팀원 | BE / MANAGER
 - **홍수지** : 팀원 | FE / PRESENTER
 
+#### 🔗 배포
+- **FE배포** : https://devo-sigma.vercel.app/
+- **BE배포** : Devo-env.eba-9dvmtjua.ap-northeast-2.elasticbeanstalk.com
 
 
 #### 📦 기술스택
